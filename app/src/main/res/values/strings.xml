@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="et_name_String">Name</string>
+    <string name="et_password_String">Password</string>
+    <string name="btn_save_String">Save</string>
+
+</resources>
